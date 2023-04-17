@@ -1,1 +1,1 @@
-from clean import main
+import clean
